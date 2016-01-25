@@ -1,0 +1,28 @@
+﻿{
+    "WS Support Diagonal": {
+	"model": "diagsupport",
+	"type": "deco",
+	"price": 4.20,
+	"grid": false,
+	"heightDelta": 0.25,
+	"gridSubdivision": 2.0,
+	"snapCenter": false,
+	"recolorable": true,
+	"recolorableOptions": {
+		"color1": "#523614"
+		}
+	},
+    "WS Support Straight": {
+	"model": "straightsupport",
+	"type": "deco",
+	"price": 4.20,
+	"grid": false,
+	"heightDelta": 0.25,
+	"gridSubdivision": 2.0,
+	"snapCenter": false,
+	"recolorable": true,
+	"recolorableOptions": {
+		"color1": "#523614"
+		}
+	}
+}

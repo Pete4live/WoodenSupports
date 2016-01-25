@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3415139981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bf1249ef994ba84642239a267f56b92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9458299030eefcc562450f92d52d33a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Color_1.mat
+- Assets/Materials/FrontColor.mat
+- Assets/Materials/Color_2.mat
+- Assets/diagsupport.fbx
+- Assets/straightsupport.fbx
+- Assets/Materials/No Name.mat
+Dependencies: []
